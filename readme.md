@@ -53,7 +53,7 @@ By [Matthew Davis](https://connect.sensiolabs.com/profile/mdavis1982)
   <dd> The Bundle system is one of the greatest and most powerful features of Symfony2. Bundles contain all the files related to a single feature of your application: controllers, entities, event listeners, form types, Twig templates, etc. But how much of that actually needs to be inside a bundle? In this talk we\u2019ll take a bundle, containing all those different types of classes, configuration files and templates, and strip it down to the bare necessities. And I promise that after moving many files out of the bundle, everything still works. While looking for ways to move things out of the bundle, I will discuss some of the more advanced features of bundle design, like prepending configuration, compiler passes and Doctrine mapping drivers. We will end with a very lean bundle, surrounded by a few highly reusable, maximally decoupled libraries.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://fr.slideshare.net/matthiasnoback/the-naked-bundle-symfony-live-london-2014)  
 ~~Video~~  
 
 By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
