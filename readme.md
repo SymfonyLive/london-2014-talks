@@ -21,7 +21,7 @@ By [Marcello Duarte](https://connect.sensiolabs.com/profile/md)
   <dd>A framework, by definition, provides a basic set of tools to use for application development to avoid writing repeatable code. It often encourages us to take shortcuts to enable rapid development. In theory, we only need to implement the part which is specific to our domain. In practice, we often end up with highly coupled code, mixed layers and a dependency graph deceptively close to spaghetti. This talk is going back to basics to remind you what software coupling is and when to consider it good or bad. The presentation will also demonstrate a few techniques on how to write applications that embrace change in a Symfony environment.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/jakzal/the-dependency-trap)  
 ~~Video~~  
 
 By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)  
@@ -53,7 +53,7 @@ By [Matthew Davis](https://connect.sensiolabs.com/profile/mdavis1982)
   <dd> The Bundle system is one of the greatest and most powerful features of Symfony2. Bundles contain all the files related to a single feature of your application: controllers, entities, event listeners, form types, Twig templates, etc. But how much of that actually needs to be inside a bundle? In this talk we\u2019ll take a bundle, containing all those different types of classes, configuration files and templates, and strip it down to the bare necessities. And I promise that after moving many files out of the bundle, everything still works. While looking for ways to move things out of the bundle, I will discuss some of the more advanced features of bundle design, like prepending configuration, compiler passes and Doctrine mapping drivers. We will end with a very lean bundle, surrounded by a few highly reusable, maximally decoupled libraries.</dd>
 </dl>
 
-[Slides](http://fr.slideshare.net/matthiasnoback/the-naked-bundle-symfony-live-london-2014)  
+[Slides](http://slideshare.net/matthiasnoback/the-naked-bundle-symfony-live-london-2014)  
 ~~Video~~  
 
 By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
@@ -117,7 +117,7 @@ By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)
   <dd>If you're familiar with testing your PHP code, there's a good chance you've been using mock objects: But are they really mocks? The term mock object is commonly used in the PHP community to describe both Mocks and Stubs, but they do behave differently, and more importantly, they should be used differently. Test double is used as the general name for objects, procedures or systems used to replace real components, purely for testing purposes. As the title of the talk implies, mock objects aren't the only kind of test doubles out there. This talk will cover the basic differences between the test doubles you might use and when or what you might utilise them for, including practical examples using several of the most popular PHP test double libraries. We'll then go into a little bit more detail on how the way you approach the design of your software can lead to the use of the different types and the trade-offs between those approaches.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/davedevelopment/mocks-arent-stubs-fakes-dummies-or-spies-symfonylive-london-2014)  
 ~~Video~~  
 
 By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)  
@@ -149,7 +149,7 @@ By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)
   <dd>How do you create applications with an incredible level of extendability without losing readability in the process? What if there's a way to separate concerns not only on the code, but on the service definition level? This talk will explore structural and behavioural patterns and ways to enrich them through tricks of powerful dependency injection containers such as Symfony2 DIC component.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/everzet/decoupling-with-design-patterns-and-symfony2-dic)  
 ~~Video~~  
 
 By [Konstantin Kudryashov](https://connect.sensiolabs.com/profile/everzet)  
@@ -165,7 +165,7 @@ By [Konstantin Kudryashov](https://connect.sensiolabs.com/profile/everzet)
   <dd>Stack is a convention for composing HttpKernelInterface middlewares. By following Stack's conventions you can add behavior and functionality to any application based on Symfony's HttpKernelInterface. This means Stack middlewares can be applied to Silex, Laravel 4, and Drupal 8 applications in addition to any other HttpKernelInterface based application. Learn the conventions, see community middlewares, and find out how to get started with Stack.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/simensen/decorating-applications-with-stack-symfony-live-london-2014)  
 ~~Video~~  
 
 By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)  
@@ -176,7 +176,7 @@ By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)
 
 ## Closing Keynote: Doing Everything with Nothing: Ephemeralization in the Cloud
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dzuelke/doing-everything-with-nothing-ephemeralization-in-the-cloud)  
 ~~Video~~  
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
