@@ -85,7 +85,7 @@ By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)
   <dd>For the last few months we've been implementing a Continuous Delivery pipeline for the redesign of Time Out. In this talk I will demonstrate a real life example of what our pipeline looks like, the different tools we've used to get it done (phing, github, jenkins, ansible, AWS S3, ...), and peculiarities for PHP and Symfony2 projects. Most importantly, I'll be looking at things we've struggled with along the way and the lessons we've learnt. </dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/loalf/one-commit-one-release-continuously-delivering-a-symfony-project-39566087)  
 ~~Video~~  
 
 By [Javier López](https://connect.sensiolabs.com/profile/loalf)  
@@ -133,7 +133,7 @@ By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)
   <dd>When you have a huge website and you decide to make the move to Symfony, it can be a very daunting prospect of having to rewrite your entire website on top of the Symfony framework. We\u2019ll go through how this can be done as smoothly as possible with a large enterprise size website, piece by piece, deploying your site every step of the way, following along with the example of phpBB, an organisation going through this process, to discover the right and wrong way to go about it and the many tools you can use on enterprise-scale Symfony applications to help along the way.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/michaelcullum/converting-a-website-to-a-new-religion-symfony)  
 ~~Video~~  
 
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
