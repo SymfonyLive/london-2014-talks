@@ -37,7 +37,7 @@ By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)
   <dd>We take great care in our back end coding workflow, optimising, automating and abstracting as much as is possible. So why don't we do that with our front end code? In this session, we'll take a look at some tools to help us take our front end workflow to the next level, and hopefully optimise our load times in the process! We'll be looking at using Twig templates and optimising them for the different areas of your application, integrating Bower and Gulp for managing assets and processing our front end code to avoid repetitive tasks - looking at how that impacts the typical Symfony workflow.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/mdavis1982/optimising-your-front-end-workflow-with-symfony-twig-bower-and-gulp)  
 ~~Video~~  
 
 By [Matthew Davis](https://connect.sensiolabs.com/profile/mdavis1982)  
