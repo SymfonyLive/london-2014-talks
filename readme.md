@@ -5,7 +5,7 @@
 
 ## Keynote: Understanding Craftsmanship
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/marcello.duarte/understanding-craftsmanship)  
 ~~Video~~  
 
 By [Marcello Duarte](https://connect.sensiolabs.com/profile/md)  
