@@ -69,7 +69,7 @@ By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)
   <dd>You've seen Kris' open source libraries, but how does he tackle coding out an application? Walk through green fields with a Symfony expert as he takes his latest "next big thing" idea from the first line of code to a functional prototype. Learn design patterns and principles to guide your way in organising your own code and take home some practical examples to kickstart your next project.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/kriswallsmith/how-kriswritessymfonyappslondon)  
 ~~Video~~  
 
 By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)  
