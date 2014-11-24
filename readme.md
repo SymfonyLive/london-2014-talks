@@ -134,7 +134,7 @@ By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)
 </dl>
 
 [Slides](https://speakerdeck.com/michaelcullum/converting-a-website-to-a-new-religion-symfony)  
-~~Video~~  
+[Video](http://youtu.be/xF64DNmai_U)
 
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
 ![github](icon/github.png) [@unknownbliss](https://github.com/unknownbliss)  
