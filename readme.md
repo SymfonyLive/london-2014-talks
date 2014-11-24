@@ -70,7 +70,7 @@ By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)
 </dl>
 
 [Slides](http://www.slideshare.net/kriswallsmith/how-kriswritessymfonyappslondon)  
-~~Video~~  
+[Video](http://youtu.be/W8MOIOyPbmM)
 
 By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)  
 ![github](icon/github.png) [@kriswallsmith](https://github.com/kriswallsmith)  
