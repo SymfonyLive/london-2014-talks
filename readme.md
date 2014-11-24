@@ -177,7 +177,7 @@ By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)
 ## Closing Keynote: Doing Everything with Nothing: Ephemeralization in the Cloud
 
 [Slides](https://speakerdeck.com/dzuelke/doing-everything-with-nothing-ephemeralization-in-the-cloud)  
-~~Video~~  
+[Video](http://youtu.be/AZ2kydtUilc)
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
 ![github](icon/github.png) [@dzuelke](https://github.com/dzuelke)  
