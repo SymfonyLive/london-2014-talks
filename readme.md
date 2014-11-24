@@ -150,7 +150,7 @@ By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)
 </dl>
 
 [Slides](http://slideshare.net/everzet/decoupling-with-design-patterns-and-symfony2-dic)  
-~~Video~~  
+[Video](http://youtu.be/UIDlOV40xCY)
 
 By [Konstantin Kudryashov](https://connect.sensiolabs.com/profile/everzet)  
 ![github](icon/github.png) [@everzet](https://github.com/everzet)  
