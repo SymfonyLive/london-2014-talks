@@ -86,7 +86,7 @@ By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)
 </dl>
 
 [Slides](http://slideshare.net/loalf/one-commit-one-release-continuously-delivering-a-symfony-project-39566087)  
-~~Video~~  
+[Video](http://youtu.be/sPcmIDV_r4g)
 
 By [Javier López](https://connect.sensiolabs.com/profile/loalf)  
 ![github](icon/github.png) [@loalf](https://github.com/loalf)  
