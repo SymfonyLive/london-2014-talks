@@ -182,3 +182,18 @@ By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
 ![github](icon/github.png) [@dzuelke](https://github.com/dzuelke)  
 ![twitter](icon/twitter.png) [@dzuelke](https://twitter.com/dzuelke)  
+
+---
+---
+---
+
+# Lightning Talks
+
+## PHP & Heroku
+
+~~Slides~~  
+[Video](http://youtu.be/JZ0ztHmul-8)
+
+By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
+![github](icon/github.png) [@dzuelke](https://github.com/dzuelke)  
+![twitter](icon/twitter.png) [@dzuelke](https://twitter.com/dzuelke)  
