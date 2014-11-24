@@ -166,7 +166,7 @@ By [Konstantin Kudryashov](https://connect.sensiolabs.com/profile/everzet)
 </dl>
 
 [Slides](https://speakerdeck.com/simensen/decorating-applications-with-stack-symfony-live-london-2014)  
-~~Video~~  
+[Video](http://youtu.be/fusN0yhEB7c)
 
 By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)  
 ![github](icon/github.png) [@simensen](https://github.com/simensen)  
