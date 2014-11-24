@@ -118,7 +118,7 @@ By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)
 </dl>
 
 [Slides](https://speakerdeck.com/davedevelopment/mocks-arent-stubs-fakes-dummies-or-spies-symfonylive-london-2014)  
-~~Video~~  
+[Video](http://youtu.be/6_r3AzRg1HM)
 
 By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)  
 ![github](icon/github.png) [@davedevelopment](https://github.com/davedevelopment)  
