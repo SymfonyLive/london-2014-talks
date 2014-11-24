@@ -54,7 +54,7 @@ By [Matthew Davis](https://connect.sensiolabs.com/profile/mdavis1982)
 </dl>
 
 [Slides](http://slideshare.net/matthiasnoback/the-naked-bundle-symfony-live-london-2014)  
-~~Video~~  
+[Video](http://youtu.be/nX3sBQhqfPs)
 
 By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
 ![github](icon/github.png) [@matthiasnoback](https://github.com/matthiasnoback)  
