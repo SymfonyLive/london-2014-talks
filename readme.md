@@ -38,7 +38,7 @@ By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)
 </dl>
 
 [Slides](http://slideshare.net/mdavis1982/optimising-your-front-end-workflow-with-symfony-twig-bower-and-gulp)  
-~~Video~~  
+[Video](http://youtu.be/qs8b-zBZVxE)
 
 By [Matthew Davis](https://connect.sensiolabs.com/profile/mdavis1982)  
 ![github](icon/github.png) [@mdavis1982](https://github.com/mdavis1982)  
