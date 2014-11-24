@@ -102,7 +102,7 @@ By [Javier López](https://connect.sensiolabs.com/profile/loalf)
 </dl>
 
 [Slides](https://speakerdeck.com/pjedrzejewski/sylius-e-commerce-for-symfony-developers)  
-~~Video~~  
+[Video](http://youtu.be/HX27erOkqW4)
 
 By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)  
 ![github](icon/github.png) [@pjedrzejewski](https://github.com/pjedrzejewski)  
