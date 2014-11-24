@@ -22,7 +22,7 @@ By [Marcello Duarte](https://connect.sensiolabs.com/profile/md)
 </dl>
 
 [Slides](https://speakerdeck.com/jakzal/the-dependency-trap)  
-~~Video~~  
+[Video](http://youtu.be/eJ8qlLS1kUs)
 
 By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)  
 ![github](icon/github.png) [@jakzal](https://github.com/jakzal)  
